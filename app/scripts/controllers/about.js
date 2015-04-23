@@ -13,5 +13,6 @@ angular.module('karmaApp')
       'HTML5 Boilerplate',
       'AngularJS',
       'Karma',
+      'Karma'
     ];
   });
